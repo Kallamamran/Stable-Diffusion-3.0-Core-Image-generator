@@ -23,3 +23,5 @@ Run "run.bat"
 That's about all the info you might need I think.
 
 Enjoy :)
+
+PS. I ran out of credits before running the SD3-Turbo samples, so you'll have to do them yourself 😉
